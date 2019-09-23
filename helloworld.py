@@ -1,2 +1,3 @@
-hello = "Hello World!"
-print(hello)
+h = "Hello"
+w = "World"
+print(h + " " + w + "!")
