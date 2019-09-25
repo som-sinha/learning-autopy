@@ -1,4 +1,4 @@
-# Example of usage of if statements in python
+# Example for usage of if statements in python
 
 name = 'Som'
 if name == 'Som':     # : is usually followed by a new block of code
